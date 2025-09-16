@@ -1,4 +1,5 @@
 Name:B.Divya Naga Siri
 Roll:53
 Suc:2350250067
-Github is project use to store projects.
+
+Github is use to store projects.
